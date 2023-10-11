@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-loginandregistervue-dev-194007-authRole",
+      "UnauthRoleArn": "arn:aws:iam::551253161854:role/amplify-loginandregistervue-dev-194007-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::551253161854:role/amplify-loginandregistervue-dev-194007-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-loginandregistervue-dev-194007-deployment",
+      "UnauthRoleName": "amplify-loginandregistervue-dev-194007-unauthRole",
+      "StackName": "amplify-loginandregistervue-dev-194007",
+      "StackId": "arn:aws:cloudformation:us-east-1:551253161854:stack/amplify-loginandregistervue-dev-194007/9e3447a0-5d2a-11ee-bdf3-0a9586ade4d9",
+      "AmplifyAppId": "d3ugmu7bgd61d7"
+    },
+    "categories": {
+      "auth": {
+        "loginandregistervue140e28c3": {}
+      }
+    }
+  }
+}
